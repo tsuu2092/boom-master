@@ -240,4 +240,4 @@ MonoBehaviour:
   audios:
   - sound: 0
     clip: {fileID: 8300000, guid: b97b66268ce7f454facdba755e27a275, type: 3}
-    volume: 0.5
+    volume: 0.1
