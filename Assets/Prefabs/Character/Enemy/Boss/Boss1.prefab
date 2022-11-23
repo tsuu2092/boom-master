@@ -120,7 +120,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2522165805866766492, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: bombPool.color.g
-      value: 0.64705884
+      value: 0.5907618
+      objectReference: {fileID: 0}
+    - target: {fileID: 2522165805866766492, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
+      propertyPath: bombPool.color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2522165805866766492, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: explosionPool.color.b
@@ -128,7 +132,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2522165805866766492, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: explosionPool.color.g
-      value: 0.64705884
+      value: 0.5921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 2522165805866766492, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
+      propertyPath: explosionPool.color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3504564967481910001, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: m_Name
