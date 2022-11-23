@@ -214,7 +214,7 @@ GameObject:
   - component: {fileID: 7797149793600367990}
   - component: {fileID: 5594683676889654880}
   - component: {fileID: 6924328774613092851}
-  - component: {fileID: 6577471296790276392}
+  - component: {fileID: 9082472479224125579}
   m_Layer: 7
   m_Name: PlaceBomb
   m_TagString: Untagged
@@ -369,7 +369,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &6577471296790276392
+--- !u!114 &9082472479224125579
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -378,12 +378,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 4469943692352908205}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d901664128d864a39b51308cb6dbc96e, type: 3}
+  m_Script: {fileID: 11500000, guid: 73de4434f297cae4ba61697078f0f5fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   activeKey: 32
   callableWhilePausing: 0
-  onKey:
+  onKeyDown:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 5594683676889654880}
@@ -513,7 +513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f04f84ecc668b14da6cfe9444f38bf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHP: 1500
+  maxHP: 1200
   onDamageTaken:
     m_PersistentCalls:
       m_Calls:

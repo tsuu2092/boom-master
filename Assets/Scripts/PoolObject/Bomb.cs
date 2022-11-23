@@ -52,6 +52,7 @@ public class Bomb : PoolObject
     }
     public void Explode()
     {
+        if (timeElapsed == 0) return;
         if (hasExploded) return;
         hasExploded = true;
         Explosion centerExplosion = GetExplosion(transform.position);

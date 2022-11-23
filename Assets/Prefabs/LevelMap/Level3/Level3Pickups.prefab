@@ -42,7 +42,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -380621781712273208, guid: ce838d4e7162a5d4eb0d886a41feea21, type: 3}
       propertyPath: healAmount
-      value: 250
+      value: 400
       objectReference: {fileID: 0}
     - target: {fileID: 7983071759842699616, guid: ce838d4e7162a5d4eb0d886a41feea21, type: 3}
       propertyPath: m_Name
@@ -170,7 +170,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -380621781712273208, guid: ce838d4e7162a5d4eb0d886a41feea21, type: 3}
       propertyPath: healAmount
-      value: 250
+      value: 400
       objectReference: {fileID: 0}
     - target: {fileID: 7983071759842699616, guid: ce838d4e7162a5d4eb0d886a41feea21, type: 3}
       propertyPath: m_Name
