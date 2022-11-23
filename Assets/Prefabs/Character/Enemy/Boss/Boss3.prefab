@@ -52,7 +52,7 @@ MonoBehaviour:
   explosionPool:
     type: 500
     color: {r: 0, g: 0, b: 0, a: 1}
-  damage: 50
+  damage: 40
   length: 20
   lifetime: 3
   bombLimit: 999
@@ -84,7 +84,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3cc73468db157346814e11f9dad955e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cooldown: 4
+  cooldown: 6
   initialCooldown: 8
   onInterval:
     m_PersistentCalls:
@@ -113,7 +113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3cc73468db157346814e11f9dad955e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cooldown: 4
+  cooldown: 6
   initialCooldown: 10
   onInterval:
     m_PersistentCalls:
@@ -238,7 +238,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2522165805866766492, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: damage
-      value: 30
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 2522165805866766492, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: length
@@ -374,7 +374,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4906122013401940572, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: maxHP
-      value: 6000
+      value: 8000
       objectReference: {fileID: 0}
     - target: {fileID: 6653861744286338943, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: m_Color.b

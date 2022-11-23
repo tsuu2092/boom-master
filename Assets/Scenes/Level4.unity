@@ -307,7 +307,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 757047607, guid: bbdf8a3e68df21d4bb232b183fdf45ac, type: 3}
       propertyPath: requiredScore
-      value: 1200
+      value: 1002
       objectReference: {fileID: 0}
     - target: {fileID: 412033551970806232, guid: bbdf8a3e68df21d4bb232b183fdf45ac, type: 3}
       propertyPath: m_RootOrder
@@ -358,9 +358,13 @@ PrefabInstance:
       value: GameManager
       objectReference: {fileID: 0}
     - target: {fileID: 7708459772865987933, guid: bbdf8a3e68df21d4bb232b183fdf45ac, type: 3}
+      propertyPath: m_Volume
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7708459772865987933, guid: bbdf8a3e68df21d4bb232b183fdf45ac, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: c085267c67233df43aca213efc9270c1, type: 3}
+      objectReference: {fileID: 8300000, guid: 91f69624572a5e348881d90b83c7ab4e, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbdf8a3e68df21d4bb232b183fdf45ac, type: 3}
 --- !u!1001 &813044562
@@ -744,7 +748,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9145852432130418752, guid: 51c21301d3cdd814cb6e4841c1633787, type: 3}
       propertyPath: orthographic size
-      value: 7
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 9145852432130418752, guid: 51c21301d3cdd814cb6e4841c1633787, type: 3}
       propertyPath: m_BackGroundColor.b
@@ -768,15 +772,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9145852432130418759, guid: 51c21301d3cdd814cb6e4841c1633787, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9145852432130418759, guid: 51c21301d3cdd814cb6e4841c1633787, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9145852432130418759, guid: 51c21301d3cdd814cb6e4841c1633787, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9145852432130418759, guid: 51c21301d3cdd814cb6e4841c1633787, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1029,6 +1033,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2885261983797977565, guid: 463a433e7dd392643b839aa2d6f2dfb5, type: 3}
+      propertyPath: score
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4675398974034765921, guid: 463a433e7dd392643b839aa2d6f2dfb5, type: 3}
       propertyPath: m_Name
       value: Level4Enemies
