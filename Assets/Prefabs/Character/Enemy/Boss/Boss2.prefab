@@ -244,7 +244,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4906122013401940572, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: maxHP
-      value: 5000
+      value: 6000
       objectReference: {fileID: 0}
     - target: {fileID: 6653861744286338943, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: m_Color.b

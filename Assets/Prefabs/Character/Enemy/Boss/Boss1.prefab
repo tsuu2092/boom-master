@@ -204,7 +204,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4906122013401940572, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: maxHP
-      value: 3000
+      value: 4000
       objectReference: {fileID: 0}
     - target: {fileID: 5425181962945390631, guid: aa0feefd9fa432d48982871a4e09c6fc, type: 3}
       propertyPath: bombPool.color.b
